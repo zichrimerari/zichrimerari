@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Daniel Nzangi! 👋
 
-<!--
-**zichrimerari/zichrimerari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer passionate about building tools that solve real-world problems. I specialize in data engineering and analytics (Python/sql).
 
-Here are some ideas to get you started:
+### 🏆 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🎫 [Ticket System App](https://github.com/zichrimerari/ticket-system-app)**
+*An issue tracking system for managing support tickets.*
+- **Tech:** React native for the mobile app and python django for the backend
+- **Focus:** Full-stack development and state management.
+
+**🗄️ [SQL Data Warehouse](https://github.com/zichrimerari/sql-data-warehouse)**
+*A data warehousing solution for analytics.*
+- **Tech:** SQL, ETL Pipelines
+- **Focus:** Data modeling, stored procedures, and optimization.
+
+
+**🎓 [KUOCAS](https://github.com/zichrimerari/KUOCAS)**
+*My Final Year Project.*
+- **Tech:** Java
+- **Focus:** Complete system architecture and implementation.
+
+---
+
+### 🚀 What I'm Learning & Experimenting With
+I use these repositories to practice new concepts and sharpen my skills:
+- **Backend & APIs:** Working with Python in `student_hub_server` and `todoapp_api`.
+- **Frontend & Web:** Exploring TypeScript in `ticket_system_app` and JavaScript in `library`.
+- **pandas & sql** Learning the data dog's essential tech stack!
+
+### 🛠️ Languages and Tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23008080.svg?style=for-the-badge&logo=sql&logoColor=white)
+
+
+### 📈 GitHub Stats
+![Zichri's GitHub stats](https://github-readme-stats.vercel.app/api?username=zichrimerari&show_icons=true&theme=radical)
