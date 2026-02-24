@@ -33,5 +33,3 @@ I use these repositories to practice new concepts and sharpen my skills:
 ![SQL](https://img.shields.io/badge/sql-%23008080.svg?style=for-the-badge&logo=sql&logoColor=white)
 
 
-### 📈 GitHub Stats
-![Zichri's GitHub stats](https://github-readme-stats.vercel.app/api?username=zichrimerari&show_icons=true&theme=radical)
