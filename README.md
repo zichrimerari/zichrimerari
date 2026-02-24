@@ -4,12 +4,12 @@ I am a developer passionate about building tools that solve real-world problems.
 
 ### 🏆 Featured Projects
 
-**🎫 [Ticket System App](https://github.com/zichrimerari/ticket-system-app)**
+**🎫 [Ticket System App](https://github.com/zichrimerari/ticket_system_app)**
 *An issue tracking system for managing support tickets.*
 - **Tech:** React native for the mobile app and python django for the backend
 - **Focus:** Full-stack development and state management.
 
-**🗄️ [SQL Data Warehouse](https://github.com/zichrimerari/sql-data-warehouse)**
+**🗄️ [SQL Data Warehouse](https://github.com/zichrimerari/sql_data_warehouse)**
 *A data warehousing solution for analytics.*
 - **Tech:** SQL, ETL Pipelines
 - **Focus:** Data modeling, stored procedures, and optimization.
@@ -29,7 +29,6 @@ I use these repositories to practice new concepts and sharpen my skills:
 - **pandas & sql** Learning the data dog's essential tech stack!
 
 ### 🛠️ Languages and Tools
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23008080.svg?style=for-the-badge&logo=sql&logoColor=white)
 
