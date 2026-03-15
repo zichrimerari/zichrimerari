@@ -2,17 +2,22 @@
 
 I am a developer passionate about building tools that solve real-world problems. I specialize in data engineering and analytics (Python/sql).
 
-### 🏆 Featured Projects
+### Featured Projects
 
-**🎫 [Ticket System App](https://github.com/zichrimerari/ticket_system_app)**
+** [Ticket System App](https://github.com/zichrimerari/ticket_system_app)**
 *An issue tracking system for managing support tickets.*
 - **Tech:** React native for the mobile app and python django for the backend
 - **Focus:** Full-stack development and state management.
 
-**🗄️ [SQL Data Warehouse](https://github.com/zichrimerari/sql_data_warehouse)**
+** [SQL Data Warehouse](https://github.com/zichrimerari/sql_data_warehouse)**
 *A data warehousing solution for analytics.*
 - **Tech:** SQL, ETL Pipelines
 - **Focus:** Data modeling, stored procedures, and optimization.
+
+** [cohort analysis](https://github.com/zichrimerari/uci-online-retail-cohort-analysis).**
+*An analytics projects that follows cohort retention and spending during their lifetime
+-**Tech:** Pandas
+-**Focus:** Data vizualization,date manipulation
 
 
 **🎓 [KUOCAS](https://github.com/zichrimerari/KUOCAS)**
@@ -22,13 +27,13 @@ I am a developer passionate about building tools that solve real-world problems.
 
 ---
 
-### 🚀 What I'm Learning & Experimenting With
+### What I'm Learning & Experimenting With
 I use these repositories to practice new concepts and sharpen my skills:
 - **Backend & APIs:** Working with Python in `student_hub_server` and `todoapp_api`.
 - **Frontend & Web:** Exploring TypeScript in `ticket_system_app` and JavaScript in `library`.
 - **pandas & sql** Learning the data dog's essential tech stack!
 
-### 🛠️ Languages and Tools
+### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23008080.svg?style=for-the-badge&logo=sql&logoColor=white)
 
