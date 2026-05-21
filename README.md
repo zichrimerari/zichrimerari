@@ -16,8 +16,8 @@ I am a developer passionate about building tools that solve real-world problems.
 
 **[cohort analysis](https://github.com/zichrimerari/uci-online-retail-cohort-analysis).**
 *An analytics projects that follows cohort retention and spending during their lifetime*
--**Tech:** Pandas
--**Focus:** Data vizualization,date manipulation
+- **Tech:** Pandas
+- **Focus:** Data vizualization,date manipulation
 
 ---
 
