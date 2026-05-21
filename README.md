@@ -19,19 +19,7 @@ I am a developer passionate about building tools that solve real-world problems.
 -**Tech:** Pandas
 -**Focus:** Data vizualization,date manipulation
 
-
-**🎓 [KUOCAS](https://github.com/zichrimerari/KUOCAS)**
-*My Final Year Project.*
-- **Tech:** Java
-- **Focus:** Complete system architecture and implementation.
-
 ---
-
-### What I'm Learning & Experimenting With
-I use these repositories to practice new concepts and sharpen my skills:
-- **Backend & APIs:** Working with Python in `student_hub_server` and `todoapp_api`.
-- **Frontend & Web:** Exploring TypeScript in `ticket_system_app` and JavaScript in `library`.
-- **pandas & sql** Learning the data dog's essential tech stack!
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
